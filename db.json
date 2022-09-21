@@ -1,0 +1,24 @@
+{
+  "lista": [
+    {
+      "id": 1,
+      "tarea": "Pasear al perro",
+      "prioridad": "prioridad-baja"
+    },
+    {
+      "tarea": "hola",
+      "prioridad": "prioridad-baja",
+      "id": 2
+    },
+    {
+      "tarea": "hola",
+      "prioridad": "prioridad-alta",
+      "id": 3
+    },
+    {
+      "tarea": "holis",
+      "prioridad": "prioridad-baja",
+      "id": 4
+    }
+  ]
+}
